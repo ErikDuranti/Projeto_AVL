@@ -2,10 +2,6 @@
 
 Este projeto é uma aplicação web desenvolvida em **Python** com **Flask** que implementa uma **Árvore AVL** (Adelson-Velsky e Landis). O objetivo é fornecer uma interface visual limpa e interativa para demonstrar as operações de inserção, remoção e o balanceamento automático da árvore.
 
-## 📋 Sobre o Projeto
-
-O foco deste projeto é a implementação de um código limpo (*Clean Code*), onde a lógica da árvore AVL é mantida sem comentários no código fonte (`app.py`), delegando a explicação detalhada da lógica para um arquivo de documentação separado.
-
 ### Funcionalidades
 * **Adicionar Nós:** Insere valores inteiros na árvore.
 * **Remover Nós:** Remove valores e reestrutura a árvore automaticamente.
